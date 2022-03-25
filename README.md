@@ -1,7 +1,7 @@
 # Pix Converter
 
 
-Live [Netlify](https://lucent-quokka-66e6ba.netlify.app/)
+Live [Netlify] https://pix-converter.netlify.app
 
 
 ### `npm start`
